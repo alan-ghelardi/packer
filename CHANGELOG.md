@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.84] - 2020-02-18
+
 ## [0.1.82] - 2020-02-18
 
 ## [0.1.80] - 2020-02-18
